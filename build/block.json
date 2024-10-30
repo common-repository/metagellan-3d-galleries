@@ -1,0 +1,8 @@
+{
+  "apiVersion": 3,
+  "title": "Metagellan 3D Galleries",
+  "name": "metagellan-plugin/galleries",
+  "description": "Easily integrate a 3D gallery into your website with just a few clicks. Showcase your products in an innovative way. Elevate your artworks in a customizable universe. Give a new dimension to your communication and amplify the visibility of your services.",
+  "category": "embed",
+  "editorScript": "file:./index.js"
+}
